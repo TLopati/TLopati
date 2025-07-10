@@ -5,3 +5,4 @@ Hi, I'm Teancum Lopati, a passionate Junior Full Stack Developer with experience
 Outside of coding, I’m an avid sports enthusiast—playing everything from indoor netball to American football. I’m also a gamer and occasionally stream my gameplay online.
 
 Connect with me on LinkedIn.
+www.linkedin.com/in/teancum-lopati-0707a5292
